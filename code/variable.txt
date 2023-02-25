@@ -1,0 +1,5 @@
+a	int a
+n	int a[50],n
+i	int a[50],n,i
+j	int a[50],n,i,j
+temp	int a[50],n,i,j,temp
